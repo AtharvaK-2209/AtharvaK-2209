@@ -460,10 +460,6 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 ---
 
-# Certifications
- Needs to upload
----
-
 ## Currently Pursuing
 
 - Oracle Certified Professional Java
