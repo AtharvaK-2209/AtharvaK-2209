@@ -461,36 +461,7 @@ Alongside internships, I actively design and develop production-oriented AI appl
 ---
 
 # Certifications
-
-## Amazon Web Services (AWS)
-
-<p align="left">
-
-
-
-</p>
-
----
-
-## Oracle
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Oracle-Java-In%20Progress-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
----
-
-## NPTEL
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/NPTEL-Data%20Science-7C3AED?style=for-the-badge"/>
-
-</p>
-
-
+ Needs to upload
 ---
 
 ## Currently Pursuing
