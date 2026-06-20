@@ -466,11 +466,7 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
@@ -482,8 +478,6 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 <img src="https://img.shields.io/badge/Oracle-Java-In%20Progress-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle-SQL-In%20Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 </p>
 
 ---
@@ -492,27 +486,10 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-4F46E5?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/NPTEL-Data%20Science-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-5B21B6?style=for-the-badge"/>
-
 </p>
 
----
-
-## Cisco
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Cisco-Python-EA4335?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
 
 ---
 
@@ -533,47 +510,15 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaK-2209&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
