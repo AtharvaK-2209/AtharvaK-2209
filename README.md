@@ -39,16 +39,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
-
-</p>
-
 ---
 
 # About Me
@@ -112,7 +102,7 @@ I believe software engineering is more than writing code—it's about designing 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql"/>
 
 </p>
 
@@ -122,7 +112,7 @@ I believe software engineering is more than writing code—it's about designing 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
 </p>
 
@@ -132,7 +122,7 @@ I believe software engineering is more than writing code—it's about designing 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,postgres,mysql,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,postgres,mysql"/>
 
 </p>
 
@@ -164,7 +154,7 @@ I believe software engineering is more than writing code—it's about designing 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash,postman,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,bash,vscode"/>
 
 </p>
 
@@ -172,18 +162,491 @@ I believe software engineering is more than writing code—it's about designing 
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Machine Learning | ★★★★★ | Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation |
-| Deep Learning | ★★★★☆ | CNNs, EfficientNet, TensorFlow Lite, Neural Networks |
-| Computer Vision | ★★★★☆ | Image Classification, OpenCV, Disease Detection |
-| NLP | ★★★★☆ | TF-IDF, Text Processing, Sentiment & Emotion Analysis |
-| Data Analytics | ★★★★★ | Pandas, NumPy, Statistical Analysis, Power BI |
-| MLOps Fundamentals | ★★★☆☆ | Model Deployment, Inference Optimization |
-| Cloud AI | ★★★★☆ | AWS Lambda Research, Adaptive Pre-Warming |
-| Time Series Forecasting | ★★★★☆ | ARIMA, Stacked LSTM |
-| Anomaly Detection | ★★★★★ | Isolation Forest, Risk Scoring Systems |
-| Software Engineering | ★★★★★ | Scalable Architecture, Backend Systems, Product Development |
+| Domain | Details |
+|---------|---------|
+| Machine Learning  | Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation |
+| Deep Learning  | CNNs, EfficientNet, TensorFlow Lite, Neural Networks |
+| Computer Vision  | Image Classification, OpenCV, Disease Detection |
+| NLP | TF-IDF, Text Processing, Sentiment & Emotion Analysis |
+| Data Analytics  | Pandas, NumPy, Statistical Analysis, Power BI |
+| MLOps Fundamentals  | Model Deployment, Inference Optimization |
+| Cloud AI  | AWS Lambda Research, Adaptive Pre-Warming |
+| Time Series Forecasting  | ARIMA, Stacked LSTM |
+| Anomaly Detection  | Isolation Forest, Risk Scoring Systems |
+| Software Engineering | Scalable Architecture, Backend Systems, Product Development |
 
 ---
+
+# Featured Projects
+
+<details open>
+<summary><b>DrishtiFasal — AI-Powered Crop Disease Detection & Pest Risk Analysis</b></summary>
+
+<br>
+
+An end-to-end AI-powered agricultural intelligence platform designed to assist farmers with early crop disease detection and contextual pest risk assessment. The system combines **Computer Vision**, **Machine Learning**, and an offline-first mobile experience to deliver reliable predictions even in low-connectivity rural environments.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Flutter • TensorFlow Lite • Python • EfficientNet-B0 • OpenCV • SQLite |
+| **Scale** | Multi-crop disease classification with contextual weather-based pest analysis |
+| **Performance** | 98.14% Prediction Accuracy with optimized low-latency mobile inference |
+| **Security** | Local on-device inference with secure data storage |
+| **Impact** | Enables fast disease diagnosis and proactive pest management for farmers |
+| **Repository** | `Coming Soon` |
+
+### Engineering Highlights
+
+- Developed an offline-first Flutter application for real-world deployment.
+- Implemented EfficientNet-based image classification pipeline.
+- Designed image preprocessing and leaf validation workflow.
+- Integrated contextual pest risk prediction using environmental parameters.
+- Optimized TensorFlow Lite inference for low-resource mobile devices.
+- Built modular architecture for future cloud synchronization.
+
+**Core Technologies**
+
+`Flutter` `TensorFlow Lite` `Python` `EfficientNet` `Computer Vision` `Mobile AI`
+
+</details>
+
+---
+
+<details>
+<summary><b>Quantitative Fraud Detection using Isolation Forest</b></summary>
+
+<br>
+
+A machine learning-based fraud analytics platform capable of identifying suspicious financial transactions using anomaly detection techniques. The project focuses on explainable fraud detection through engineered behavioral risk indicators and interactive business dashboards.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Python • Scikit-learn • Pandas • NumPy • Power BI |
+| **Scale** | Large transactional datasets with engineered behavioral features |
+| **Performance** | Optimized anomaly detection using Isolation Forest |
+| **Security** | Risk-based transaction prioritization |
+| **Impact** | Improved fraud investigation efficiency using interpretable risk scores |
+| **Repository** | `Coming Soon` |
+
+### Engineering Highlights
+
+- Designed complete anomaly detection pipeline.
+- Engineered behavioral transaction features.
+- Built quantitative risk scoring framework.
+- Performed statistical feature engineering.
+- Generated explainable fraud analytics dashboards.
+- Visualized anomaly distribution and business insights.
+
+**Core Technologies**
+
+`Isolation Forest` `Scikit-learn` `Pandas` `Power BI` `Machine Learning`
+
+</details>
+
+---
+
+<details>
+<summary><b>Google Maps Business Scraper Platform</b></summary>
+
+<br>
+
+A production-oriented large-scale business data extraction platform developed during my AI/ML internship. The application automates business discovery using parallel scraping architecture, queue management, session tracking, and real-time monitoring dashboards.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Python • Playwright • React • PostgreSQL • FastAPI |
+| **Scale** | Parallel worker architecture supporting thousands of business records |
+| **Performance** | Optimized scraping throughput with intelligent queue scheduling |
+| **Security** | Session isolation, deduplication, controlled worker execution |
+| **Impact** | Automated large-scale business dataset generation |
+| **Repository** | Private |
+
+### Engineering Highlights
+
+- Developed scalable multi-worker scraping engine.
+- Implemented PostgreSQL queue management.
+- Added intelligent session tracking.
+- Built React dashboard with live worker monitoring.
+- Integrated Excel export functionality.
+- Designed dataset comparison utilities.
+- Reduced duplicate records through optimized deduplication pipeline.
+
+**Core Technologies**
+
+`Python` `Playwright` `React` `FastAPI` `PostgreSQL`
+
+</details>
+
+---
+
+<details>
+<summary><b>AWS Lambda Adaptive Cold Start Prediction</b></summary>
+
+<br>
+
+Research project focused on minimizing AWS Lambda cold starts using adaptive pre-warming strategies driven by hybrid time-series forecasting models.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | AWS Lambda • Python • ARIMA • Stacked LSTM |
+| **Scale** | Serverless cloud workload prediction |
+| **Performance** | 40.43% reduction in simulated cold starts |
+| **Security** | Cloud-native serverless architecture |
+| **Impact** | 98.8% MAE improvement over ARIMA baseline |
+| **Repository** | Research Project |
+
+### Engineering Highlights
+
+- Built adaptive Lambda pre-warming pipeline.
+- Developed hybrid forecasting architecture.
+- Combined ARIMA with Stacked LSTM.
+- Reduced latency caused by cold starts.
+- Improved prediction accuracy over baseline models.
+- Conducted cloud performance evaluation.
+
+**Core Technologies**
+
+`AWS` `Python` `LSTM` `ARIMA` `Cloud Computing`
+
+</details>
+
+---
+
+<details>
+<summary><b>Emotion-Aware Productivity Optimization System</b></summary>
+
+<br>
+
+An AI-powered productivity assistant that combines Natural Language Processing and Computer Vision to analyze user emotions and stress levels before generating personalized productivity recommendations.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Python • NLP • OpenCV • Machine Learning • Dashboard |
+| **Scale** | Multi-user analytics platform |
+| **Performance** | Optimized inference workflow with modular ML pipeline |
+| **Security** | Authenticated user analytics |
+| **Impact** | Personalized productivity recommendations based on behavioral insights |
+| **Repository** | Coming Soon |
+
+### Engineering Highlights
+
+- Designed modular AI workflow architecture.
+- Integrated Computer Vision and NLP pipelines.
+- Developed authenticated analytics dashboard.
+- Built recommendation engine.
+- Optimized inference latency.
+- Designed scalable experimentation framework.
+
+**Core Technologies**
+
+`Python` `NLP` `Computer Vision` `Machine Learning`
+
+</details>
+
+---
+
+## Engineering Philosophy
+
+Every project I build follows a product engineering mindset rather than being just an academic implementation.
+
+### Design Principles
+
+- Clean Architecture
+- Modular Components
+- Scalability First
+- Performance Optimization
+- Production-Oriented Development
+- Maintainable Codebase
+- Data-Driven Decision Making
+- Explainable AI
+- User-Centric Design
+- Continuous Improvement
+
+---
+
+# Experience
+
+## AI/ML Developer Intern • LSOYS Games & Apps
+
+**February 2026 – May 2026**
+
+Designed and developed production-oriented AI solutions with a focus on scalable data engineering, automation, and intelligent analytics. Worked across backend systems, database optimization, frontend dashboards, and large-scale data processing pipelines.
+
+### Scope of Work
+
+- Designed and developed a scalable Google Maps Business Scraper using Python, Playwright, React.js, and PostgreSQL.
+- Built a parallel worker architecture for large-scale business data extraction.
+- Engineered PostgreSQL queue management with session tracking and intelligent deduplication.
+- Developed a React dashboard featuring real-time worker monitoring, live execution logs, Excel export, and dataset comparison.
+- Optimized scraping throughput through parallel execution strategies.
+- Collaborated on production-focused engineering workflows and software architecture.
+
+**Technologies**
+
+`Python`
+`Playwright`
+`React`
+`FastAPI`
+`PostgreSQL`
+`Git`
+`JavaScript`
+`Automation`
+`Data Engineering`
+
+---
+
+## Research Intern • AWS Cloud Club, PICT
+
+**February 2026 – April 2026**
+
+Conducted applied research on adaptive pre-warming strategies for AWS Lambda serverless computing environments. Built predictive machine learning models to reduce latency caused by cold starts using hybrid forecasting techniques.
+
+### Scope of Work
+
+- Developed an adaptive AWS Lambda pre-warming pipeline.
+- Implemented hybrid forecasting using ARIMA and Stacked LSTM.
+- Reduced simulated cold starts by **40.43%**.
+- Achieved **98.8% MAE improvement** over traditional ARIMA models.
+- Conducted serverless performance benchmarking.
+- Worked on real-world cloud optimization research.
+
+**Technologies**
+
+`AWS Lambda`
+`Python`
+`ARIMA`
+`LSTM`
+`Machine Learning`
+`Cloud Computing`
+`Time Series Forecasting`
+
+---
+
+## AI/ML Projects & Independent Engineering
+
+**2025 – Present**
+
+Alongside internships, I actively design and develop production-oriented AI applications, research prototypes, backend systems, and intelligent automation tools that solve practical real-world problems.
+
+### Focus Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- Java Development
+- Cloud Computing
+- Data Analytics
+- Product Engineering
+- Full Stack Development
+- Open Source Learning
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 🏆 **1st Prize – Campus to Corporate (C2C), Xenia 2026** | Secured First Place in the Campus to Corporate competition for demonstrating strong technical and problem-solving skills. |
+| 💻 **Smart India Hackathon 2025** | Participated in India's largest innovation hackathon, collaborating on real-world problem statements. |
+| 🤖 **AI/ML Developer Internship** | Successfully completed an AI/ML internship at **LSOYS Games & Apps**, contributing to scalable engineering solutions. |
+| ☁️ **Research Internship** | Conducted applied cloud research at **AWS Cloud Club, PICT** on adaptive serverless optimization. |
+| 🎯 **ML Domain Coordinator** | Coordinated AI/ML initiatives for **INC'26**, one of PICT's flagship technical events. |
+| 🎨 **Core Design Team Member** | Served as a Core Member of the Department E-Magazine Design Team, contributing to branding and publication design. |
+| 📈 **Academic Excellence** | Maintaining a **9.06 CGPA** in B.Tech Electronics & Computer Engineering with Minor in AI/ML. |
+
+</div>
+
+---
+
+# Certifications
+
+## Amazon Web Services (AWS)
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## Oracle
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Oracle-Java-In%20Progress-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-SQL-In%20Progress-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## NPTEL
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Data%20Science-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-5B21B6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Cisco
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Cisco-Python-EA4335?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
+
+## Currently Pursuing
+
+- Oracle Certified Professional Java
+- Spring Boot & Backend Engineering
+- Advanced Data Structures & Algorithms
+- AWS Cloud Practitioner
+- System Design Fundamentals
+- Microservices Architecture
+- Docker & Kubernetes
+- Production AI Deployment
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Java Backend Development
+  - Spring Boot
+  - System Design
+  - Microservices
+  - Docker
+  - Kubernetes
+  - Advanced DSA
+  - Cloud Native Engineering
+  - Design Patterns
+  - Distributed Systems
+
+Building:
+  - AI Powered Intelligent Applications
+  - Backend APIs
+  - Production Grade Java Projects
+  - Machine Learning Pipelines
+  - Cloud Native Solutions
+  - Open Source Projects
+
+Exploring:
+  - Large Language Models
+  - AI Agents
+  - Retrieval Augmented Generation
+  - MLOps
+  - Serverless Computing
+  - AWS Cloud Services
+  - High Performance Backend Systems
+
+Open To:
+  - Software Engineering Internships
+  - Backend Developer Roles
+  - AI/ML Internships
+  - Open Source Contributions
+  - Research Collaborations
+  - Technical Communities
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:atharvakalam2209@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-atharvakalam2209%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/atharva-kalam-13973b363">
+<img src="https://img.shields.io/badge/LinkedIn-Atharva%20Kalam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AtharvaK-2209">
+<img src="https://img.shields.io/badge/GitHub-Atharva%20Kalam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Engineering intelligent systems that transform ideas into scalable, real-world impact."*
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,25:4F46E5,50:6D28D9,75:7C3AED,100:8B5CF6&height=140&section=footer"/>
+</p>
 
