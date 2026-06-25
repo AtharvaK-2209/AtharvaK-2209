@@ -473,17 +473,6 @@ Alongside internships, I actively design and develop production-oriented AI appl
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaK-2209&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 
