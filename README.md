@@ -177,193 +177,6 @@ I believe software engineering is more than writing code—it's about designing 
 
 ---
 
-# Featured Projects
-
-<details open>
-<summary><b>DrishtiFasal — AI-Powered Crop Disease Detection & Pest Risk Analysis</b></summary>
-
-<br>
-
-An end-to-end AI-powered agricultural intelligence platform designed to assist farmers with early crop disease detection and contextual pest risk assessment. The system combines **Computer Vision**, **Machine Learning**, and an offline-first mobile experience to deliver reliable predictions even in low-connectivity rural environments.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | Flutter • TensorFlow Lite • Python • EfficientNet-B0 • OpenCV • SQLite |
-| **Scale** | Multi-crop disease classification with contextual weather-based pest analysis |
-| **Performance** | 98.14% Prediction Accuracy with optimized low-latency mobile inference |
-| **Security** | Local on-device inference with secure data storage |
-| **Impact** | Enables fast disease diagnosis and proactive pest management for farmers |
-| **Repository** | `Coming Soon` |
-
-### Engineering Highlights
-
-- Developed an offline-first Flutter application for real-world deployment.
-- Implemented EfficientNet-based image classification pipeline.
-- Designed image preprocessing and leaf validation workflow.
-- Integrated contextual pest risk prediction using environmental parameters.
-- Optimized TensorFlow Lite inference for low-resource mobile devices.
-- Built modular architecture for future cloud synchronization.
-
-**Core Technologies**
-
-`Flutter` `TensorFlow Lite` `Python` `EfficientNet` `Computer Vision` `Mobile AI`
-
-</details>
-
----
-
-<details>
-<summary><b>Quantitative Fraud Detection using Isolation Forest</b></summary>
-
-<br>
-
-A machine learning-based fraud analytics platform capable of identifying suspicious financial transactions using anomaly detection techniques. The project focuses on explainable fraud detection through engineered behavioral risk indicators and interactive business dashboards.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | Python • Scikit-learn • Pandas • NumPy • Power BI |
-| **Scale** | Large transactional datasets with engineered behavioral features |
-| **Performance** | Optimized anomaly detection using Isolation Forest |
-| **Security** | Risk-based transaction prioritization |
-| **Impact** | Improved fraud investigation efficiency using interpretable risk scores |
-| **Repository** | `Coming Soon` |
-
-### Engineering Highlights
-
-- Designed complete anomaly detection pipeline.
-- Engineered behavioral transaction features.
-- Built quantitative risk scoring framework.
-- Performed statistical feature engineering.
-- Generated explainable fraud analytics dashboards.
-- Visualized anomaly distribution and business insights.
-
-**Core Technologies**
-
-`Isolation Forest` `Scikit-learn` `Pandas` `Power BI` `Machine Learning`
-
-</details>
-
----
-
-<details>
-<summary><b>Google Maps Business Scraper Platform</b></summary>
-
-<br>
-
-A production-oriented large-scale business data extraction platform developed during my AI/ML internship. The application automates business discovery using parallel scraping architecture, queue management, session tracking, and real-time monitoring dashboards.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | Python • Playwright • React • PostgreSQL • FastAPI |
-| **Scale** | Parallel worker architecture supporting thousands of business records |
-| **Performance** | Optimized scraping throughput with intelligent queue scheduling |
-| **Security** | Session isolation, deduplication, controlled worker execution |
-| **Impact** | Automated large-scale business dataset generation |
-| **Repository** | Private |
-
-### Engineering Highlights
-
-- Developed scalable multi-worker scraping engine.
-- Implemented PostgreSQL queue management.
-- Added intelligent session tracking.
-- Built React dashboard with live worker monitoring.
-- Integrated Excel export functionality.
-- Designed dataset comparison utilities.
-- Reduced duplicate records through optimized deduplication pipeline.
-
-**Core Technologies**
-
-`Python` `Playwright` `React` `FastAPI` `PostgreSQL`
-
-</details>
-
----
-
-<details>
-<summary><b>AWS Lambda Adaptive Cold Start Prediction</b></summary>
-
-<br>
-
-Research project focused on minimizing AWS Lambda cold starts using adaptive pre-warming strategies driven by hybrid time-series forecasting models.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | AWS Lambda • Python • ARIMA • Stacked LSTM |
-| **Scale** | Serverless cloud workload prediction |
-| **Performance** | 40.43% reduction in simulated cold starts |
-| **Security** | Cloud-native serverless architecture |
-| **Impact** | 98.8% MAE improvement over ARIMA baseline |
-| **Repository** | Research Project |
-
-### Engineering Highlights
-
-- Built adaptive Lambda pre-warming pipeline.
-- Developed hybrid forecasting architecture.
-- Combined ARIMA with Stacked LSTM.
-- Reduced latency caused by cold starts.
-- Improved prediction accuracy over baseline models.
-- Conducted cloud performance evaluation.
-
-**Core Technologies**
-
-`AWS` `Python` `LSTM` `ARIMA` `Cloud Computing`
-
-</details>
-
----
-
-<details>
-<summary><b>Emotion-Aware Productivity Optimization System</b></summary>
-
-<br>
-
-An AI-powered productivity assistant that combines Natural Language Processing and Computer Vision to analyze user emotions and stress levels before generating personalized productivity recommendations.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | Python • NLP • OpenCV • Machine Learning • Dashboard |
-| **Scale** | Multi-user analytics platform |
-| **Performance** | Optimized inference workflow with modular ML pipeline |
-| **Security** | Authenticated user analytics |
-| **Impact** | Personalized productivity recommendations based on behavioral insights |
-| **Repository** | Coming Soon |
-
-### Engineering Highlights
-
-- Designed modular AI workflow architecture.
-- Integrated Computer Vision and NLP pipelines.
-- Developed authenticated analytics dashboard.
-- Built recommendation engine.
-- Optimized inference latency.
-- Designed scalable experimentation framework.
-
-**Core Technologies**
-
-`Python` `NLP` `Computer Vision` `Machine Learning`
-
-</details>
-
----
-
-## Engineering Philosophy
-
-Every project I build follows a product engineering mindset rather than being just an academic implementation.
-
-### Design Principles
-
-- Clean Architecture
-- Modular Components
-- Scalability First
-- Performance Optimization
-- Production-Oriented Development
-- Maintainable Codebase
-- Data-Driven Decision Making
-- Explainable AI
-- User-Centric Design
-- Continuous Improvement
-
----
-
 # Experience
 
 ## AI/ML Developer Intern • LSOYS Games & Apps
@@ -422,6 +235,176 @@ Conducted applied research on adaptive pre-warming strategies for AWS Lambda ser
 
 ---
 
+# Featured Projects
+
+<details open>
+<summary><b>🤖 PlacementPilot AI — Multi-Agent Personalized Placement Preparation Platform</b></summary>
+
+<br>
+
+A production-ready AI-powered career execution platform developed for the Google Developer Groups × Coding Ninjas Hackathon. PlacementPilot AI transforms a student's career goal into an adaptive execution system using Google's Gemini API, combining multi-agent reasoning, personalized roadmaps, daily mission planning, progress tracking, predictive analytics, and intelligent recovery mechanisms.
+
+| Category | Details |
+|----------|---------|
+| **Stack** | React 19 • TypeScript • Vite • Firebase Authentication • Cloud Firestore • Google Gemini 2.5 Flash • Tailwind CSS • Framer Motion |
+| **Architecture** | Multi-Agent AI • Repository Pattern • Event-Driven Pipeline • Smart Cache • Retry Mechanisms |
+| **AI Agents** | Goal Analysis • Roadmap Generator • Daily Mission Planner • Goal Health • Future You • Deadline Rescue • Dynamic Replanning |
+| **Cloud** | Firebase Hosting • Cloud Firestore • Firebase Authentication • Google Gemini API |
+| **Performance** | Smart AI response caching • Firestore synchronization • Offline persistence • Retry & fallback workflows |
+| **Security** | Firebase Authentication • Firestore Security Rules • User-isolated cloud data |
+| **Impact** | Personalized AI execution platform that continuously adapts learning plans instead of generating static roadmaps |
+| **Repository** | Public |
+
+### 🚀 Engineering Highlights
+
+- Designed a modular **multi-agent AI architecture** where specialized agents collaborate to analyze goals, generate adaptive roadmaps, monitor execution, and recover from missed deadlines.
+- Engineered an **event-driven execution pipeline** that synchronizes XP, achievements, roadmap progress, Goal Health, Future You predictions, and Deadline Rescue in real time.
+- Built a **repository-based backend architecture** with centralized prompt orchestration, retry mechanisms, structured JSON validation, and reusable service layers.
+- Integrated **Google Gemini 2.5 Flash** to perform goal analysis, roadmap generation, adaptive planning, predictive evaluation, and execution intelligence.
+- Implemented **Firebase Authentication** and **Cloud Firestore** with real-time synchronization, offline persistence, and secure user-specific data isolation.
+- Developed an intelligent **Goal Health Engine** that evaluates consistency, burnout risk, completion probability, ETA, and personalized recommendations.
+- Designed **Future You**, an AI-powered predictive simulation that estimates future skills, internship readiness, strengths, weaknesses, and career trajectory.
+- Implemented **Deadline Rescue Mode**, dynamically restructuring roadmaps when users fall behind to maximize successful goal completion.
+- Built an XP-driven **gamification system** featuring achievements, milestones, streaks, weekly goals, and execution analytics.
+- Optimized AI usage through **smart caching**, reducing unnecessary Gemini API requests while maintaining adaptive behavior.
+
+### 🧠 Core AI Agents
+
+- Goal Analysis Agent
+- Roadmap Generation Agent
+- Daily Mission Generator
+- Dynamic Replanning Agent
+- Goal Health Evaluation Agent
+- Future You Prediction Agent
+- Deadline Rescue Agent
+
+### ⚙️ Core Technologies
+
+`React` `TypeScript` `Firebase Authentication` `Cloud Firestore` `Google Gemini API` `@google/genai SDK` `Tailwind CSS` `Framer Motion` `Vite`
+
+</details>
+
+---
+
+<details>
+<summary><b>DrishtiFasal — AI-Powered Crop Disease Detection & Pest Risk Analysis</b></summary>
+
+<br>
+
+An end-to-end AI-powered agricultural intelligence platform designed to assist farmers with early crop disease detection and contextual pest risk assessment. The system combines **Computer Vision**, **Machine Learning**, and an offline-first mobile experience to deliver reliable predictions even in low-connectivity rural environments.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Flutter • TensorFlow Lite • Python • EfficientNet-B0 • OpenCV • SQLite |
+| **Scale** | Multi-crop disease classification with contextual weather-based pest analysis |
+| **Performance** | 98.14% Prediction Accuracy with optimized low-latency mobile inference |
+| **Security** | Local on-device inference with secure data storage |
+| **Impact** | Enables fast disease diagnosis and proactive pest management for farmers |
+| **Repository** | `Coming Soon` |
+
+### Engineering Highlights
+
+- Developed an offline-first Flutter application for real-world deployment.
+- Implemented EfficientNet-based image classification pipeline.
+- Designed image preprocessing and leaf validation workflow.
+- Integrated contextual pest risk prediction using environmental parameters.
+- Optimized TensorFlow Lite inference for low-resource mobile devices.
+- Built modular architecture for future cloud synchronization.
+
+**Core Technologies**
+
+`Flutter` `TensorFlow Lite` `Python` `EfficientNet` `Computer Vision` `Mobile AI`
+
+</details>
+
+---
+
+<details>
+<summary><b>Google Maps Business Scraper Platform</b></summary>
+
+<br>
+
+A production-oriented large-scale business data extraction platform developed during my AI/ML internship. The application automates business discovery using parallel scraping architecture, queue management, session tracking, and real-time monitoring dashboards.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Python • Playwright • React • PostgreSQL • FastAPI |
+| **Scale** | Parallel worker architecture supporting thousands of business records |
+| **Performance** | Optimized scraping throughput with intelligent queue scheduling |
+| **Security** | Session isolation, deduplication, controlled worker execution |
+| **Impact** | Automated large-scale business dataset generation |
+| **Repository** | Private |
+
+### Engineering Highlights
+
+- Developed scalable multi-worker scraping engine.
+- Implemented PostgreSQL queue management.
+- Added intelligent session tracking.
+- Built React dashboard with live worker monitoring.
+- Integrated Excel export functionality.
+- Designed dataset comparison utilities.
+- Reduced duplicate records through optimized deduplication pipeline.
+
+**Core Technologies**
+
+`Python` `Playwright` `React` `FastAPI` `PostgreSQL`
+
+</details>$
+
+---
+
+<details>
+<summary><b>Emotion-Aware Productivity Optimization System</b></summary>
+
+<br>
+
+An AI-powered productivity assistant that combines Natural Language Processing and Computer Vision to analyze user emotions and stress levels before generating personalized productivity recommendations.
+
+| Category | Details |
+|----------|----------|
+| **Stack** | Python • NLP • OpenCV • Machine Learning • Dashboard |
+| **Scale** | Multi-user analytics platform |
+| **Performance** | Optimized inference workflow with modular ML pipeline |
+| **Security** | Authenticated user analytics |
+| **Impact** | Personalized productivity recommendations based on behavioral insights |
+| **Repository** | Coming Soon |
+
+### Engineering Highlights
+
+- Designed modular AI workflow architecture.
+- Integrated Computer Vision and NLP pipelines.
+- Developed authenticated analytics dashboard.
+- Built recommendation engine.
+- Optimized inference latency.
+- Designed scalable experimentation framework.
+
+**Core Technologies**
+
+`Python` `NLP` `Computer Vision` `Machine Learning`
+
+</details>
+
+---
+
+## Engineering Philosophy
+
+Every project I build follows a product engineering mindset rather than being just an academic implementation.
+
+### Design Principles
+
+- Clean Architecture
+- Modular Components
+- Scalability First
+- Performance Optimization
+- Production-Oriented Development
+- Maintainable Codebase
+- Data-Driven Decision Making
+- Explainable AI
+- User-Centric Design
+- Continuous Improvement
+
+---
+
 ## AI/ML Projects & Independent Engineering
 
 **2025 – Present**
@@ -457,24 +440,6 @@ Alongside internships, I actively design and develop production-oriented AI appl
 | 📈 **Academic Excellence** | Maintaining a **9.06 CGPA** in B.Tech Electronics & Computer Engineering with Minor in AI/ML. |
 
 </div>
-
----
-
-## Currently Pursuing
-
-- Oracle Certified Professional Java
-- Spring Boot & Backend Engineering
-- Advanced Data Structures & Algorithms
-- AWS Cloud Practitioner
-- System Design Fundamentals
-- Microservices Architecture
-- Docker & Kubernetes
-- Production AI Deployment
-
----
-
----
-
 
 ---
 
