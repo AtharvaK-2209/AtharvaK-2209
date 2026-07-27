@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Minor-AI%2FML-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CGPA-9.06-5B21B6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-9.16-5B21B6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 </p>
 
