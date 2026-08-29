@@ -349,7 +349,7 @@ A production-oriented large-scale business data extraction platform developed du
 
 `Python` `Playwright` `React` `FastAPI` `PostgreSQL`
 
-</details>$
+</details>
 
 ---
 
@@ -372,26 +372,6 @@ An AI-powered productivity assistant that combines Natural Language Processing a
 
 ---
 
-## AI/ML Projects & Independent Engineering
-
-**2025 – Present**
-
-Alongside internships, I actively design and develop production-oriented AI applications, research prototypes, backend systems, and intelligent automation tools that solve practical real-world problems.
-
-### Focus Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Engineering
-- Java Development
-- Cloud Computing
-- Data Analytics
-- Product Engineering
-- Full Stack Development
-- Open Source Learning
-
----
-
 # Achievements
 
 <div align="center">
@@ -404,52 +384,9 @@ Alongside internships, I actively design and develop production-oriented AI appl
 | ☁️ **Research Internship** | Conducted applied cloud research at **AWS Cloud Club, PICT** on adaptive serverless optimization. |
 | 🎯 **ML Domain Coordinator** | Coordinated AI/ML initiatives for **INC'26**, one of PICT's flagship technical events. |
 | 🎨 **Core Design Team Member** | Served as a Core Member of the Department E-Magazine Design Team, contributing to branding and publication design. |
-| 📈 **Academic Excellence** | Maintaining a **9.06 CGPA** in B.Tech Electronics & Computer Engineering with Minor in AI/ML. |
+| 📈 **Academic Excellence** | Maintaining a **9.16 CGPA** in B.Tech Electronics & Computer Engineering with Minor in AI/ML. |
 
 </div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Java Backend Development
-  - Spring Boot
-  - System Design
-  - Microservices
-  - Docker
-  - Kubernetes
-  - Advanced DSA
-  - Cloud Native Engineering
-  - Design Patterns
-  - Distributed Systems
-
-Building:
-  - AI Powered Intelligent Applications
-  - Backend APIs
-  - Production Grade Java Projects
-  - Machine Learning Pipelines
-  - Cloud Native Solutions
-  - Open Source Projects
-
-Exploring:
-  - Large Language Models
-  - AI Agents
-  - Retrieval Augmented Generation
-  - MLOps
-  - Serverless Computing
-  - AWS Cloud Services
-  - High Performance Backend Systems
-
-Open To:
-  - Software Engineering Internships
-  - Backend Developer Roles
-  - AI/ML Internships
-  - Open Source Contributions
-  - Research Collaborations
-  - Technical Communities
-```
 
 ---
 
