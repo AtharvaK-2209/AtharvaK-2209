@@ -368,40 +368,7 @@ An AI-powered productivity assistant that combines Natural Language Processing a
 | **Security** | Authenticated user analytics |
 | **Impact** | Personalized productivity recommendations based on behavioral insights |
 | **Repository** | Coming Soon |
-
-### Engineering Highlights
-
-- Designed modular AI workflow architecture.
-- Integrated Computer Vision and NLP pipelines.
-- Developed authenticated analytics dashboard.
-- Built recommendation engine.
-- Optimized inference latency.
-- Designed scalable experimentation framework.
-
-**Core Technologies**
-
-`Python` `NLP` `Computer Vision` `Machine Learning`
-
 </details>
-
----
-
-## Engineering Philosophy
-
-Every project I build follows a product engineering mindset rather than being just an academic implementation.
-
-### Design Principles
-
-- Clean Architecture
-- Modular Components
-- Scalability First
-- Performance Optimization
-- Production-Oriented Development
-- Maintainable Codebase
-- Data-Driven Decision Making
-- Explainable AI
-- User-Centric Design
-- Continuous Improvement
 
 ---
 
