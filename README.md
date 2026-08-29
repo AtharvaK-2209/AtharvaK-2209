@@ -78,24 +78,6 @@ I believe software engineering is more than writing code—it's about designing 
 
 ---
 
-## Currently Open To
-
-✔ Software Engineering Internships
-
-✔ AI / Machine Learning Internships
-
-✔ Backend Engineering Roles
-
-✔ Full Stack Development Projects
-
-✔ Open Source Collaboration
-
-✔ Research Opportunities
-
-✔ Cloud Engineering Projects
-
----
-
 # Tech Stack
 
 ## Programming Languages
