@@ -237,7 +237,7 @@ A production-ready AI-powered career execution platform developed for the Google
 | **Impact** | Personalized AI execution platform that continuously adapts learning plans instead of generating static roadmaps |
 | **Repository** | Public |
 
-### 🚀 Engineering Highlights
+### 🚀 Key Technical Contributions
 
 - Designed a modular **multi-agent AI architecture** where specialized agents collaborate to analyze goals, generate adaptive roadmaps, monitor execution, and recover from missed deadlines.
 - Engineered an **event-driven execution pipeline** that synchronizes XP, achievements, roadmap progress, Goal Health, Future You predictions, and Deadline Rescue in real time.
@@ -268,6 +268,78 @@ A production-ready AI-powered career execution platform developed for the Google
 
 ---
 
+
+<details>
+<summary><b>🧠 EmoSync — Multilingual Emotion-Aware Productivity Optimization System</b></summary>
+
+<br>
+
+An AI-powered emotion-aware productivity platform that leverages multilingual Natural Language Processing to classify human emotions across English, Hindi (Devanagari), and code-mixed Hinglish text. EmoSync combines a language-routed transformer ensemble with a deterministic recommendation engine to interpret 28 fine-grained emotional categories and translate emotional insights into personalized productivity interventions, task prioritization, and workflow optimization strategies.
+
+| Category | Details |
+|----------|---------|
+| **Stack** | Python • Flask • PyTorch • Hugging Face Transformers • NLTK • Scikit-learn • HTML • CSS • JavaScript |
+| **Architecture** | Language-Routed Transformer Ensemble • Modular ML Pipeline • RESTful API • Lazy Model Loading |
+| **AI Models** | RoBERTa (GoEmotions) • IndicBERT • XLM-RoBERTa |
+| **Language Support** | English • Hindi (Devanagari) • Hinglish (Code-Mixed Text) |
+| **Classification** | 28 Fine-Grained GoEmotions Categories • Multi-Label Emotion Classification |
+| **Backend** | Flask Application Factory • Gunicorn • RESTful APIs • Model Singleton Pattern |
+| **NLP Processing** | NLTK • Unicode Normalization • Regex Tokenization • Script Detection • Hinglish Lexical Routing |
+| **Model Optimization** | Dynamic CUDA/MPS/CPU Detection • Lazy Weight Loading • Hardware-Aware Inference |
+| **Evaluation** | 0.534 Weighted-F1 • 52.4% Strict Accuracy • 61.9% Acceptable Accuracy |
+| **Recommendation Engine** | 28 Emotion Categories → 10 Productivity Intervention Strategies • 85.7% Strategy Agreement |
+| **Impact** | Personalized productivity recommendations through multilingual emotion intelligence and behavioral insights |
+
+
+### 🚀 Key Technical Contributions
+
+- Architected a **multilingual transformer ensemble** supporting English, Hindi, and Hinglish through a lightweight language-routing mechanism that dynamically dispatches inputs to specialized RoBERTa, IndicBERT, and XLM-RoBERTa models.
+- Achieved a **37.5% relative accuracy improvement** over monolithic baselines through script-aware model selection and specialized language processing, reaching 52.4% strict accuracy and 61.9% acceptable accuracy.
+- Engineered a modular **Flask REST API inference service** with Gunicorn, implementing lazy model initialization, singleton-based weight management, and automatic CUDA/MPS/CPU hardware detection.
+- Developed a robust **multilingual preprocessing pipeline** using NLTK and custom Unicode-aware regex tokenizers to handle Devanagari combining vowel matras, punctuation, and Romanized Hindi code-mixed text.
+- Implemented a lightweight **language and script detection router** that identifies Devanagari inputs and Hinglish lexical patterns before dispatching text to the appropriate transformer backend.
+- Built a deterministic **productivity recommendation engine** that maps 28 fine-grained GoEmotions categories into 10 strategic productivity intervention workflows based on emotional classification outputs.
+- Achieved **85.7% recommendation strategy agreement** across evaluated cognitive and emotional states, including excitement, nervousness, and overwhelm.
+- Established an automated **model benchmarking framework** using Scikit-learn to evaluate competing transformer architectures through confusion matrices, strict and acceptable accuracy, macro-F1, and weighted-F1 metrics.
+- Developed a comprehensive **automated testing suite** using Pytest to validate multilingual routing fixtures, emotion taxonomy mappings, API behavior, and recommendation fallbacks.
+
+### 🧠 Core AI Components
+
+- **Multilingual Emotion Classification:** Specialized transformer models for English, Hindi, and Hinglish emotion detection.
+- **Language-Routed Ensemble:** Script detection and lexical heuristics for dynamically selecting the appropriate NLP model.
+- **Linguistic Preprocessing Engine:** NLTK-based tokenization, Unicode normalization, and multilingual text handling.
+- **Emotion Taxonomy Mapping:** Conversion of 28 fine-grained GoEmotions categories into structured productivity intervention strategies.
+- **Productivity Recommendation Engine:** Deterministic mapping of emotional states to personalized task prioritization and workflow recommendations.
+- **Model Benchmarking Engine:** Comparative evaluation of transformer architectures using classification metrics and confusion matrices.
+
+### ⚙️ Backend & System Engineering
+
+- Flask Application Factory Architecture
+- RESTful API Development
+- Gunicorn WSGI Server
+- Lazy Model Loading & Singleton Management
+- CUDA / MPS / CPU Hardware Auto-Detection
+- Input Validation & Payload Sanitization
+- Modular Service Layer & Exception Handling
+
+### 📊 Model Evaluation & Testing
+
+- Strict Accuracy: **52.4%**
+- Acceptable Accuracy: **61.9%**
+- Weighted-F1 Score: **0.534**
+- Recommendation Strategy Agreement: **85.7%**
+- Automated Multilingual Routing Fixtures: **23**
+- Emotion Taxonomy Mapping Tests: **28**
+
+### ⚙️ Core Technologies
+
+`Python` `Flask` `PyTorch` `Hugging Face Transformers` `RoBERTa` `IndicBERT` `XLM-RoBERTa` `NLTK` `Scikit-learn` `Pytest` `Gunicorn` `REST APIs` `HTML` `CSS` `JavaScript`
+
+</details>
+
+
+---
+
 <details>
 <summary><b>DrishtiFasal — AI-Powered Crop Disease Detection & Pest Risk Analysis</b></summary>
 
@@ -282,9 +354,8 @@ An end-to-end AI-powered agricultural intelligence platform designed to assist f
 | **Performance** | 98.14% Prediction Accuracy with optimized low-latency mobile inference |
 | **Security** | Local on-device inference with secure data storage |
 | **Impact** | Enables fast disease diagnosis and proactive pest management for farmers |
-| **Repository** | `Coming Soon` |
 
-### Engineering Highlights
+### 🚀 Key Technical Contributions
 
 - Developed an offline-first Flutter application for real-world deployment.
 - Implemented EfficientNet-based image classification pipeline.
@@ -317,7 +388,7 @@ A production-oriented large-scale business data extraction platform developed du
 | **Impact** | Automated large-scale business dataset generation |
 | **Repository** | Private |
 
-### Engineering Highlights
+### 🚀 Key Technical Contributions
 
 - Developed scalable multi-worker scraping engine.
 - Implemented PostgreSQL queue management.
@@ -331,25 +402,6 @@ A production-oriented large-scale business data extraction platform developed du
 
 `Python` `Playwright` `React` `FastAPI` `PostgreSQL`
 
-</details>
-
----
-
-<details>
-<summary><b>Emotion-Aware Productivity Optimization System</b></summary>
-
-<br>
-
-An AI-powered productivity assistant that combines Natural Language Processing and Computer Vision to analyze user emotions and stress levels before generating personalized productivity recommendations.
-
-| Category | Details |
-|----------|----------|
-| **Stack** | Python • NLP • OpenCV • Machine Learning • Dashboard |
-| **Scale** | Multi-user analytics platform |
-| **Performance** | Optimized inference workflow with modular ML pipeline |
-| **Security** | Authenticated user analytics |
-| **Impact** | Personalized productivity recommendations based on behavioral insights |
-| **Repository** | Coming Soon |
 </details>
 
 ---
