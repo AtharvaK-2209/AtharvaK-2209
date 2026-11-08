@@ -408,12 +408,14 @@ A production-oriented large-scale business data extraction platform developed du
 
 # Achievements
 
+
 <div align="center">
 
 | Recognition | Details |
 |-------------|---------|
+| 🏆 **National Semi-Finalist – Flipkart GRiD 8.0** | Earned National Semi-Finalist recognition in Flipkart's flagship technology competition, demonstrating problem-solving and technical capabilities. |
 | 🏆 **1st Prize – Campus to Corporate (C2C), Xenia 2026** | Secured First Place in the Campus to Corporate competition for demonstrating strong technical and problem-solving skills. |
-| 💻 **Smart India Hackathon 2025** | Participated in India's largest innovation hackathon, collaborating on real-world problem statements. |
+| 🏅 **Advanced to Round 2 – KEN Business Case Study Competition, 2026** | Qualified for Round 2 by developing and presenting an innovative AI-driven solution to a real-world insurance industry challenge. |
 | 🤖 **AI/ML Developer Internship** | Successfully completed an AI/ML internship at **LSOYS Games & Apps**, contributing to scalable engineering solutions. |
 | ☁️ **Research Internship** | Conducted applied cloud research at **AWS Cloud Club, PICT** on adaptive serverless optimization. |
 | 🎯 **ML Domain Coordinator** | Coordinated AI/ML initiatives for **INC'26**, one of PICT's flagship technical events. |
@@ -421,6 +423,7 @@ A production-oriented large-scale business data extraction platform developed du
 | 📈 **Academic Excellence** | Maintaining a **9.16 CGPA** in B.Tech Electronics & Computer Engineering with Minor in AI/ML. |
 
 </div>
+
 
 ---
 
